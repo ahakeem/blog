@@ -20,3 +20,12 @@ git clone git@github_hakeem:ahakeem/blog.git
 [腾讯云社区-王鹤的专栏](https://cloud.tencent.com/developer/column/1083)</br>
 [前端异常监控 - BadJS](https://github.com/BetterJS)</br>
 [腾讯IVWEB出品的前端工作流和规范工具](https://github.com/feflow)</br>
+
+### 美团技术团队2018电子书
+[前端系列](http://dpurl.cn/DWVhPpS)</br>
+[后台系列](http://dpurl.cn/obtIVn)</br>
+[系统系列](http://dpurl.cn/zTDWq8Q)</br>
+[算法系列](http://dpurl.cn/ODj5qAB)</br>
+[运维系列](http://dpurl.cn/6zjgHFj)</br>
+[测试系列](http://dpurl.cn/wfKQqy)</br>
+[2018年美团点评技术文章合辑](http://dpurl.cn/iLGBtuS)</br>
